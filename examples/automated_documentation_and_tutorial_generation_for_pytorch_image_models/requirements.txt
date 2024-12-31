@@ -1,0 +1,4 @@
+firecrawl
+markdownify
+requests
+typing
